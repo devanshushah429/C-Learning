@@ -1,5 +1,4 @@
 ﻿using System;
-using ConsoleApp2;
 using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System.Linq;
@@ -19,11 +18,10 @@ namespace ConsoleApp1
             Console.WriteLine(val1+" "+val2);
         }
     }
-    public class BCD:ABC
+    public class BCD
     {
         public void checkProtectedInternal()
         {
-            base.checkNumber();
         }
     }
     public enum Days { Sun, Mon,Tues,Wed,Thurs,Fri,Sat }
@@ -187,8 +185,18 @@ namespace ConsoleApp1
 
                 Console.WriteLine();
             }
-            
-
+            for(int m = n-2; m>0; m--)
+            {
+                for(int j = 0; j < m; j++)
+                {
+                    Console.Write(" ");
+                }
+                for(int j = n-m; j>0; j--)
+                {
+                    Console.Write("* ");
+                }
+                Console.WriteLine();
+            }
         }
         #endregion
 
