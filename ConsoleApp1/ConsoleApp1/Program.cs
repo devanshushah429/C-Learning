@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 namespace ConsoleApp1
 {
 
+
     public class GenericDemo {
         public bool AreEqual<T>(T val1, T val2)
         {

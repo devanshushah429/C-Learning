@@ -1,0 +1,7 @@
+D:\Devanshu\C-Sharp-Learning\Collections\bin\Debug\Collections.exe.config
+D:\Devanshu\C-Sharp-Learning\Collections\bin\Debug\Collections.exe
+D:\Devanshu\C-Sharp-Learning\Collections\bin\Debug\Collections.pdb
+D:\Devanshu\C-Sharp-Learning\Collections\obj\Debug\Collections.csproj.AssemblyReference.cache
+D:\Devanshu\C-Sharp-Learning\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+D:\Devanshu\C-Sharp-Learning\Collections\obj\Debug\Collections.exe
+D:\Devanshu\C-Sharp-Learning\Collections\obj\Debug\Collections.pdb
