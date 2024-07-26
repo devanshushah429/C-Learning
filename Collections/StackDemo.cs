@@ -1,8 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Collections
 {
@@ -30,8 +27,7 @@ namespace Collections
 
             // Contains to check given element is in Stack or not.
             Console.WriteLine("Contains 20? "+st.Contains(20));
-
-
+                                                                                                                                                                                                                                                                                                                                                                                             
 
             // Clear() method is used to clear the stack
             st.Clear();

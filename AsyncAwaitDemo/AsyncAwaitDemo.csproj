@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{5AA4EF5F-9473-4B40-B9BD-8367849B2C8D}</ProjectGuid>
+    <ProjectGuid>{89888472-BA59-4BA3-8A9E-760485B52D9C}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Collections</RootNamespace>
-    <AssemblyName>Collections</AssemblyName>
+    <RootNamespace>AsyncAwaitDemo</RootNamespace>
+    <AssemblyName>AsyncAwaitDemo</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,15 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Customer.cs" />
-    <Compile Include="DictionaryDemo.cs" />
-    <Compile Include="LinkedListDemo.cs" />
-    <Compile Include="ListDemo.cs" />
-    <Compile Include="HashSetDemo.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="QueueDemo.cs" />
-    <Compile Include="StackDemo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
