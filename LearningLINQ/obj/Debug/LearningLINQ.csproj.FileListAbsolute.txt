@@ -1,0 +1,7 @@
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\bin\Debug\LearningLINQ.exe.config
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\bin\Debug\LearningLINQ.exe
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\bin\Debug\LearningLINQ.pdb
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\obj\Debug\LearningLINQ.csproj.AssemblyReference.cache
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\obj\Debug\LearningLINQ.csproj.CoreCompileInputs.cache
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\obj\Debug\LearningLINQ.exe
+D:\Devanshu\C-Sharp-Learning\LearningLINQ\obj\Debug\LearningLINQ.pdb

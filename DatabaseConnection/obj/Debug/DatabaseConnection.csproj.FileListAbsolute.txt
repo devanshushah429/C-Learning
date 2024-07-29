@@ -1,0 +1,17 @@
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\DatabaseConnection.exe.config
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\DatabaseConnection.exe
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\DatabaseConnection.pdb
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\System.Data.SqlClient.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\System.Data.SqlClient.xml
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.AssemblyReference.cache
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CoreCompileInputs.cache
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\obj\Debug\DatabaseConnection.csproj.CopyComplete
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\obj\Debug\DatabaseConnection.exe
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\obj\Debug\DatabaseConnection.pdb
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Oracle.ManagedDataAccess.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Unity.Abstractions.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Unity.Interception.dll
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\Devanshu\C-Sharp-Learning\DatabaseConnection\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.xml
